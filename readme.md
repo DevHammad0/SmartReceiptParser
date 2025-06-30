@@ -1,6 +1,6 @@
-# Receiptly
+# SmartReceiptParser
 
-Receiptly extracts text from an image of a store receipt and converts it into a structured JSON object using OCR (Tesseract), OpenCV, and Gemini AI.
+It extracts text from an image of a store receipt and converts it into a structured JSON object using OCR (Tesseract), OpenCV, and Gemini AI.
 
 ## Requirements
 
