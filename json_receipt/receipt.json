@@ -1,0 +1,27 @@
+{
+  "total": 26.19,
+  "business": "WALL-MARTFSUPERSTORE",
+  "items": [
+    {
+      "title": "HAND TOWEL",
+      "quantity": 1,
+      "price": 2.97
+    },
+    {
+      "title": "GATORADE",
+      "quantity": 1,
+      "price": 2.00
+    },
+    {
+      "title": "T-SHIRT",
+      "quantity": 1,
+      "price": 16.88
+    },
+    {
+      "title": "PUSH PINS",
+      "quantity": 1,
+      "price": 1.24
+    }
+  ],
+  "transaction_timestamp": "2020-10-17T16:12:00"
+}
